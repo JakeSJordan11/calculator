@@ -3,7 +3,8 @@ import styled from "styled-components";
 const StyledInput = styled.div`
   grid-area: input;
   display: grid;
-  background-color: #1f2f3f;
+  background-color: #134751;
+  border: solid #0b2b31;
   font-size: xx-large;
   margin: 0.1em;
   border-radius: 5px;
