@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Grid from "./Components/Grid";
+import Grid from "./Components/StyledComponents/Grid";
 import Button from "./Components/Button";
 import Input from "./Components/Input";
 import ClearButton from "./Components/ClearButton";
